@@ -4,7 +4,7 @@ Welcome to my repository for solving problems from various Online Judge platform
 
 ## 🗂 Platforms Covered
 - [LeetCode](https://leetcode.com/)(Not yet)
-- [Codeforces](https://codeforces.com/)
+- [Codeforces](https://codeforces.com/) [(Profile)](https://codeforces.com/profile/ali_omar_nafiz)
 - [AtCoder](https://atcoder.jp/)(Not yet)
 - [HackerRank](https://www.hackerrank.com/)(Not yet)
 - [CodeChef](https://www.codechef.com/)(Not yet)
