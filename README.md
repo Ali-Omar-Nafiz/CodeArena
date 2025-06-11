@@ -3,11 +3,11 @@
 Welcome to my repository for solving problems from various Online Judge platforms. This is where I practice and improve my problem-solving, algorithm, and data structure skills.
 
 ## 🗂 Platforms Covered
-- [LeetCode](https://leetcode.com/)
+- [LeetCode](https://leetcode.com/)(Not yet)
 - [Codeforces](https://codeforces.com/)
-- [AtCoder](https://atcoder.jp/)
-- [HackerRank](https://www.hackerrank.com/)
-- [CodeChef](https://www.codechef.com/)
+- [AtCoder](https://atcoder.jp/)(Not yet)
+- [HackerRank](https://www.hackerrank.com/)(Not yet)
+- [CodeChef](https://www.codechef.com/)(Not yet)
 - [Other Platforms](#)
 
 ## 📁 Folder Structure
