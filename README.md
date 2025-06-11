@@ -3,26 +3,26 @@
 Welcome to my repository for solving problems from various Online Judge platforms. This is where I practice and improve my problem-solving, algorithm, and data structure skills.
 
 ## 🗂 Platforms Covered
-- [LeetCode](https://leetcode.com/)(Not yet)
-- [Codeforces](https://codeforces.com/) [(Profile)](https://codeforces.com/profile/ali_omar_nafiz)
-- [AtCoder](https://atcoder.jp/)(Not yet)
-- [HackerRank](https://www.hackerrank.com/)(Not yet)
-- [CodeChef](https://www.codechef.com/)(Not yet)
+- [LeetCode](https://leetcode.com/) (Not yet)
+- [Codeforces](https://codeforces.com/) --> [(Profile)](https://codeforces.com/profile/ali_omar_nafiz)
+- [AtCoder](https://atcoder.jp/) (Not yet)
+- [HackerRank](https://www.hackerrank.com/) (Not yet)
+- [CodeChef](https://www.codechef.com/) (Not yet)
 - [Other Platforms](#)
 
 ## 📁 Folder Structure
 
 CodeArena/
 
-├── LeetCode/(Not yet)
+├── LeetCode/ (Not yet)
 
 ├── Codeforces/
 
-├── AtCoder/(Not yet)
+├── AtCoder/ (Not yet)
 
-├── HackerRank/(Not yet)
+├── HackerRank/ (Not yet)
 
-├── CodeChef/(Not yet)
+├── CodeChef/ (Not yet)
 
 └── Others/
 
