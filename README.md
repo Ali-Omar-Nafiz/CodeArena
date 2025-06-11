@@ -11,12 +11,19 @@ Welcome to my repository for solving problems from various Online Judge platform
 - [Other Platforms](#)
 
 ## 📁 Folder Structure
+
 OJ_Solutions/
+
 ├── LeetCode/
+
 ├── Codeforces/
+
 ├── AtCoder/
+
 ├── HackerRank/
+
 ├── CodeChef/
+
 └── Others/
 
 Each folder contains:
