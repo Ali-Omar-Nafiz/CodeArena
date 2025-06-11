@@ -12,24 +12,24 @@ Welcome to my repository for solving problems from various Online Judge platform
 
 ## 📁 Folder Structure
 
-OJ_Solutions/
+CodeArena/
 
-├── LeetCode/
+├── LeetCode/(Not yet)
 
 ├── Codeforces/
 
-├── AtCoder/
+├── AtCoder/(Not yet)
 
-├── HackerRank/
+├── HackerRank/(Not yet)
 
-├── CodeChef/
+├── CodeChef/(Not yet)
 
 └── Others/
 
-Each folder contains:
+Each folder will contain:
 - `README.md` (optional): Platform-specific notes or tips
 - Problem files named consistently (e.g. `001_Two_Sum.py`)
-- Grouped by difficulty or topic (optional)
+- Grouped by difficulty or topic 
 
 ## ✅ Problem Naming Convention
 
