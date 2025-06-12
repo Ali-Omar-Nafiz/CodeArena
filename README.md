@@ -3,33 +3,33 @@
 Welcome to my repository for solving problems from various Online Judge platforms. This is where I practice and improve my problem-solving, algorithm, and data structure skills.
 
 ## 🗂 Platforms Covered
-- [LeetCode](https://leetcode.com/)
-- [Codeforces](https://codeforces.com/)
-- [AtCoder](https://atcoder.jp/)
-- [HackerRank](https://www.hackerrank.com/)
-- [CodeChef](https://www.codechef.com/)
+- [LeetCode](https://leetcode.com/) (Not yet)
+- [Codeforces](https://codeforces.com/) --> [(Profile)](https://codeforces.com/profile/ali_omar_nafiz)
+- [AtCoder](https://atcoder.jp/) (Not yet)
+- [HackerRank](https://www.hackerrank.com/) (Not yet)
+- [CodeChef](https://www.codechef.com/) (Not yet)
 - [Other Platforms](#)
 
 ## 📁 Folder Structure
 
-OJ_Solutions/
+CodeArena/
 
-├── LeetCode/
+├── LeetCode/ (Not yet)
 
 ├── Codeforces/
 
-├── AtCoder/
+├── AtCoder/ (Not yet)
 
-├── HackerRank/
+├── HackerRank/ (Not yet)
 
-├── CodeChef/
+├── CodeChef/ (Not yet)
 
 └── Others/
 
-Each folder contains:
+Each folder will contain:
 - `README.md` (optional): Platform-specific notes or tips
 - Problem files named consistently (e.g. `001_Two_Sum.py`)
-- Grouped by difficulty or topic (optional)
+- Grouped by difficulty or topic 
 
 ## ✅ Problem Naming Convention
 
